@@ -20,7 +20,12 @@ building color (changing the RGB values)
 In this homework you’ll gain more experience with tool creation and loops. The core of this homework will be following a Procedural House tutorial to create a multi-floor building generator. The tutorial is linked here: 
 https://www.youtube.com/watch?v=uIe97023sDk&t=979s&ab_channel=SimonHoudini 
 
+## Extra Credit 
 
+I rendered it with the Manta renderer! 
+
+<img src="https://github.com/thumun/hw03-buildings/blob/main/building1.png?raw=true" /> 
+<img src="https://github.com/thumun/hw03-buildings/blob/main/building2.png?raw=true" />
 
 ## Submission
 Update your README with 
