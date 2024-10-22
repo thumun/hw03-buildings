@@ -30,11 +30,3 @@ I rendered it with the Manta renderer!
 
 <img src="https://github.com/thumun/hw03-buildings/blob/main/building1.png?raw=true" /> 
 <img src="https://github.com/thumun/hw03-buildings/blob/main/building2.png?raw=true" />
-
-## Submission
-Update your README with 
-A description of your project 
-A video of your building tool in action 
-Create a pull request to this repository 
-Submit your Houdini file to Canvas along with a link to your pull request 
-IMPORTANT NOTE: make sure your HDA is either embedded in the HIP file or included with your submission (see the instructions under “Part 1: Box Stacking HDA” for additional details).
