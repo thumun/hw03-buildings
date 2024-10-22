@@ -16,6 +16,9 @@ building color (changing the RGB values)
 
 ## Video 
 
+https://drive.google.com/file/d/12tc10-N0hESJIlDqHWpmEIiXHzvAEA8m/view?usp=sharing
+**This video is slightly out of date -- the single doors do not clip through anymore 
+
 ## Project Overview
 In this homework you’ll gain more experience with tool creation and loops. The core of this homework will be following a Procedural House tutorial to create a multi-floor building generator. The tutorial is linked here: 
 https://www.youtube.com/watch?v=uIe97023sDk&t=979s&ab_channel=SimonHoudini 
